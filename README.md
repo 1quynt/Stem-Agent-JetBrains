@@ -12,10 +12,10 @@ PREREQUISITES
 - An active OpenAI API Key
 
 SETUP INSTRUCTIONS
-1. Extract the provided ZIP archive into a single folder.
+1. Clone this repository or download it to your local machine.
 2. Open a terminal or command prompt inside that project folder.
-3. Install the required Python libraries by running the following command:
-   pip install openai pandas
+3. Install the required Python libraries by running:
+   `pip install openai pandas`
 
 CONFIGURATION
 1. Open the file `stem_agent.py` in your code editor.
